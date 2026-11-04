@@ -1,0 +1,28 @@
+name: "generic-array"
+description: "Generic types implementing functionality of arrays"
+third_party {
+  version: "0.14.9"
+  license_type: NOTICE
+  last_upgrade_date {
+    year: 2026
+    month: 11
+    day: 4
+  }
+  homepage: "https://crates.io/crates/generic-array"
+  identifier {
+    type: "crates.io"
+    value: "generic-array"
+    version: "0.14.9"
+    primary_source: true
+  }
+  identifier {
+    type: "Archive"
+    value: "https://static.crates.io/crates/generic-array/generic-array-0.14.9.crate"
+    version: "0.14.9"
+  }
+  identifier {
+    type: "Git"
+    value: "https://github.com/fizyk20/generic-array"
+    version: "02af3fea451ef810dd3bee78aa73ad46453b88a6"
+  }
+}
